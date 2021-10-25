@@ -25,7 +25,7 @@
         <div class="container">
           <nav id="menuzord-right" class="menuzord default">
             <a class="menuzord-brand pull-left flip xs-pull-center" href="./">
-              <img src="images/Capture.jpeg" width="180px">
+              <img src="images/new_logo.png"/>
             </a>
             <ul class="menuzord-menu">
               <li><a href="./">Home</a></li>
